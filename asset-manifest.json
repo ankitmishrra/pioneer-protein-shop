@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pioneer-protein-shop/static/css/main.244b97cc.css",
-    "main.js": "/pioneer-protein-shop/static/js/main.0033ab9f.js",
-    "static/js/453.96b1f385.chunk.js": "/pioneer-protein-shop/static/js/453.96b1f385.chunk.js",
-    "static/media/pioneer-logo.png": "/pioneer-protein-shop/static/media/pioneer-logo.bece8721007bb801d7da.png",
-    "index.html": "/pioneer-protein-shop/index.html",
-    "main.244b97cc.css.map": "/pioneer-protein-shop/static/css/main.244b97cc.css.map",
-    "main.0033ab9f.js.map": "/pioneer-protein-shop/static/js/main.0033ab9f.js.map",
-    "453.96b1f385.chunk.js.map": "/pioneer-protein-shop/static/js/453.96b1f385.chunk.js.map"
+    "main.css": "/static/css/main.244b97cc.css",
+    "main.js": "/static/js/main.fa3df1ef.js",
+    "static/js/453.96b1f385.chunk.js": "/static/js/453.96b1f385.chunk.js",
+    "static/media/pioneer-logo.png": "/static/media/pioneer-logo.bece8721007bb801d7da.png",
+    "index.html": "/index.html",
+    "main.244b97cc.css.map": "/static/css/main.244b97cc.css.map",
+    "main.fa3df1ef.js.map": "/static/js/main.fa3df1ef.js.map",
+    "453.96b1f385.chunk.js.map": "/static/js/453.96b1f385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244b97cc.css",
-    "static/js/main.0033ab9f.js"
+    "static/js/main.fa3df1ef.js"
   ]
 }
