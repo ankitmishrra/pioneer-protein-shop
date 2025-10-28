@@ -17,3 +17,4 @@ const OfferBanner = ({ offer }) => {
   );
 };
 
+export default OfferBanner;

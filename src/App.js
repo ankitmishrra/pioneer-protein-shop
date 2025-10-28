@@ -3,7 +3,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import ProductCard from './components/ProductCard';
 import TestimonialCard from './components/TestimonialCard';
-import OfferBanner from './components/OfferBanner';
+import OfferBanner from './components/OfferBanner.jsx';
 
 import { products } from './data/products';
 import { testimonials } from './data/testimonials';

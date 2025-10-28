@@ -23,3 +23,4 @@ export const offers = [
       bgColor: "#fff3cd", // Light Yellow
       textColor: "#856404", // Dark Yellow
     },
+  ];
